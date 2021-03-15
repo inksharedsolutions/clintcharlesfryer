@@ -1,0 +1,46 @@
+.form {
+    // background-color: #f9f9f9;
+
+    input:first-child {
+        margin-right: 60px;
+    }
+
+    input[type="email"],
+    input[type="text"],
+    textarea {
+        width: 100%;
+        padding: 12px;
+        margin-bottom: 20px;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+        font-size: 15px;
+        background: inherit;
+    }
+
+    .submit {
+        text-transform: uppercase;
+        display: block;
+        width: 181px;
+        height: 53px;
+        margin: 0 auto;
+        padding: 10px 60px;
+        border-radius: 7px;
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+    .form {
+        .form-group {
+            flex-wrap: wrap;
+
+            input[type="email"],
+            input[type="text"],
+            textarea {
+                width: 100%;
+                margin: 0;
+                margin-bottom: 10px;
+            }
+        }
+    }
+}

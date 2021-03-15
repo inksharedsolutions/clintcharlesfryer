@@ -1,0 +1,163 @@
+/* Home */
+.main {
+    padding: 50px 0;
+
+    .main-image-container {
+        flex: 0 0 600px;
+        text-align: center;
+        padding: 30px 0;
+    }
+
+    .main-text-container {
+        padding: 30px 0;
+
+        .amazon-link {
+            display: block;
+            width: 303px;
+            height: 47px;
+            border: 1px solid #ddd;
+            border-radius: 7px;
+            background-size: 100%;
+            background-image: url(/btn-amazon.png);
+
+            &:hover {
+                background-image: url(/btn-amazon-hover.png);
+            }
+        }
+    }
+}
+.reviews {
+    padding: 50px 0;
+}
+.bot-form {
+    background-color: #f9f9f9;
+    padding: 60px 0;
+}
+
+/* About the Author */
+.gray-bg {
+    background-color: #f9f9f9;
+}
+
+.ata-banner {
+    img {
+        width: 100%;
+    }
+}
+.mid-space {
+    padding-right: 45px;
+}
+.booklinks {
+    li {
+        display: inline-block;
+        margin-right: 15px;
+        position: relative;
+
+        &:not(:first-child):not(:last-child)::after {
+            content: "";
+            height: 20px;
+            border-right: 4px double #000;
+            position: absolute;
+            right: -9px;
+            top: 5px;
+        }
+
+        a {
+            text-decoration: underline;
+        }
+    }
+}
+
+/* About the Book */
+.book-image-mobile {
+    display: none;
+}
+
+/* Contact */
+.c-mid-space {
+    margin-right: 60px;
+}
+
+/* Privacy Policy */
+.headline {
+    margin: 30px 0;
+}
+.smallfont p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+// 404
+.fof-container{
+    display: table;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+
+    .fof{
+        display: table-cell;
+        vertical-align: middle;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .main {
+        .main-image-container {
+            flex-basis: 500px;
+        }
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .main {
+        .main-image-container {
+            display: none;
+        }
+
+        .about-the-author-content {
+            flex-wrap: wrap;
+    
+            > * {
+                margin-bottom: 1rem;
+                width: 100%;
+                flex-basis: 100% !important;
+            }
+        }
+    }
+
+    .book-image-mobile {
+        display: block;
+        height: 250px;
+        overflow: hidden;
+
+        img {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            object-position: center;
+        }
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .main {
+        .main-text-container {
+            .amazon-link {
+                width: 200px;
+                height: 35px;
+            }
+        }
+
+        .contact-content {
+            flex-wrap: wrap;
+    
+            > * {
+                margin-bottom: 1rem;
+                width: 100%;
+                flex-basis: 100% !important;
+            }
+        }
+    }
+}
+
