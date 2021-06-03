@@ -4,6 +4,7 @@ import { Helmet } from 'react-helmet';
 import Banner from '../components/banner';
 import Form from '../components/form';
 // import Reviews from '../components/reviews';
+import Interview from '../components/interview';
 import styles from './css/pages.module.scss';
 import JSONData from '../contents/textcontents.json';
 
@@ -48,6 +49,12 @@ const Home = () => {
 					<Reviews />
 				</div>
 			</div> */}
+			<div className={`${styles.reviews}`}>
+				<div className={`container`}>
+					<h2 className={`section-heading`}>Interview</h2>
+					<Interview />
+				</div>
+			</div>
 			<div className={`${styles['bot-form']}`}>
 				<div className={`container`}>
 					<h2 className={`section-heading`}>Give a Shout!</h2>

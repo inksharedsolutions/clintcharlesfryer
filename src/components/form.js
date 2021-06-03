@@ -11,12 +11,13 @@ export default class MyForm extends React.Component {
 	}
 
 	render() {
+
 		const { status } = this.state;
 		return (
 			<div className={`${styles.form}`}>
 				<form onSubmit={this.submitForm} action="https://formspree.io/mdogznyj" method="POST">
 					<div className={`flex ${styles["form-group"]}`}>
-						<input type="text" name="name" placeholder="Name" required />
+						<input type="text" name="name" placeholder="Name" required id="num" />
 						<input type="email" name="email" data-submit="giveashout-submit" placeholder="Email" required />
 					</div>
 					<div className={`flex ${styles["form-group"]}`}>

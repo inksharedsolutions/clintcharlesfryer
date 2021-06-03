@@ -1,0 +1,19 @@
+.grid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-column-gap: 50px;
+
+    .content{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        padding: 5px;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .grid{
+        grid-template-columns: auto;
+    }
+
+}
