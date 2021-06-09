@@ -21,7 +21,7 @@ const Home = () => {
 					<h2 className={`section-heading`}>Latest Book</h2>
 					<div className={`flex`}>
 						<div className={`${styles['main-image-container']}`}>
-							<img src="book.jpg" alt={`${JSONData.featuredbooktitle}`} />
+							<img src="dark-ones.jpg" alt={`${JSONData.featuredbooktitle}`} />
 						</div>
 						<div className={`${styles['main-text-container']}`}>
 							<h2>{JSONData.featuredbooktitle}</h2>

@@ -26,11 +26,9 @@
 		{
 			"banner": "Clint Charles Fryer was born on Dec 22, 1969 in Guelph, Ontario, but he spent most of his childhood on the outskirts of a small town called Belwood in Ontario, with his parents and his brother Cal, Clint graduated at C.W.D.H.S.",
 			"synopsis": [
-				"Centuries ago .....",
-				"Deep within the heart of time and space in a world called Alexandria, Ancient scrolls were found by archaeologist and translated by the smartest minds of their time. The scrolls spoke of a legendary society called \"The Guardians\"",
-				"The Guardians were said to possess pure mystical magic and were very powerful. The Guardians would travel throughout time and eliminate the forces of evil that would stand in the way of all that was known to be good. In time the people slowly began to call them \"The Dark Ones\" because of the dark cloaks they wore. The ancient scrolls also spoke of how The Dark Ones evolved and became extinct. Centuries later a young farm boy named \"Foo\" set out on a dangerous quest to save his true love, and changed his destiny. This is a story taken from within the ancient scrolls of how..The Dark Ones became reborn..."
+				"It was written that centuries ago there was a myth that filtered its way through time a mystical society that spent their lives battling the forces of evil throughout Time and Space. And at the heart of it all, at the core of Time and Space itself, there was a beautiful world called Alexandria. Within the mountains, a Crystal Castle the home of The Guardians known now as The Dark Ones."
 			],
-			"amazonlink": "https://www.amazon.com/Rebirth-Dark-Clint-Charles-Fryer/dp/1947355104/"
+			"amazonlink": "https://www.amazon.com/Dark-Ones-Guardians-Space-Emptiness/dp/1643453165/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1562009119&sr=8-1"
 		}
 	],
 	"reviews": [
@@ -48,14 +46,41 @@
 	"abouttheauthor": [
 		{
 			"left": [
-				"Clint Charles Fryer was born on Dec 22, 1969 in Guelph, Ontario, but he spent most of his childhood on the outskirts of a small town called Belwood in Ontario, with his parents and his brother Cal, Clint graduated at C.W.D.H.S. in Fergus with honors, Clint enjoys his spare time with his loving family and dear friends, playing sports, bodybuilding, jet-skiing, and the great outdoors. He is now working on completing The Dark Ones the Guardians of Time & Space adventure novel series,"
+				"Clint Charles Fryer was born on Dec 22, 1969 in Guelph, Ontario, but he spent most of his childhood on the outskirts of a small town called Belwood in Ontario, with his parents and his brother Cal, Clint graduated at C.W.D.H.S. in Fergus with honors, Clint enjoys his spare time with his loving family and dear friends, playing sports, bodybuilding, jet-skiing, and the great outdoors. He is now working on the third novel \"Resurrection\" of The Dark Ones the Guardians of Time & Space adventure novel series."
 			],
 			"right": [
-				"Clint Charles Fryer is also working on plans for an animation series based on the Dark Ones the Guardians of Time & Space adventure, as well as working on ideas for a Motion Picture too. Clint Charles Fryer is also writing other stories, eg. A cool action/adventure spy series along with an action thriller novel series and both has already been started. Both would be great as a motion picture. He is a big fan of George Lucas, Science Fiction, Action/Adventure and fantasy movies."
+				"Clint Charles Fryer is all so continuing on plans for an animation series based on the Dark Ones the Guardians of Time & Space adventure, as well working on ideas for a blockbuster Motion Picture too, Clint Charles Fryer is also writing other stories, a cool action/ adventure spy series along with an action thriller novel series, both of has already been started. He is a big fan of Science Fiction, Action/ Adventure and fantasy movies. Clint Charles Fryer can be reached at frywoodstudios@gmail.com and  & www.ClintCharlesFryer.com."
 			]
 		}
 	],
 	"aboutthebook": [
+		{
+			"booktitle": "The Dark Ones: The Guardians of Time and Space in Emptyness",
+			"bookimage": "/dark-ones.jpg",
+			"synopsis": [
+				"It was written that centuries ago there was a myth that filtered its way through time a mystical society that spent their lives battling the forces of evil throughout Time and Space. And at the heart of it all, at the core of Time and Space itself, there was a beautiful world called Alexandria. Within the mountains, a Crystal Castle the home of The Guardians known now as The Dark Ones.",
+				"Centuries later, ancient scrolls were found by archaeologists and translated by the smartest minds of their time. Archaeologists discovered a hidden passage within the scrolls, and this was what they translated:",
+				"My name is Cameron, and I would like to tell you a story. This story will take you to new worlds, dangerous mystical adventures, the power of true love and friendship, and battle different creatures like the evil Bounty Hunter, the mighty Hesna (they’re half snake and half human) and be face-to-face with powerful Gods, and so much more that it turned out to be the deadliest summer ever..."
+			],
+			"booklinks": [
+				{
+					"type": "E-book",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Dark-Ones-Guardians-Space-Emptyness-ebook/dp/B07TDS1BM7/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1562009119&sr=8-1" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/the-dark-ones-clint-charles-fryer/1132307014?ean=9781643455730" }
+					]
+				},
+				{
+					"type": "Paperback",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Dark-Ones-Guardians-Space-Emptiness/dp/1643453165/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1562009119&sr=8-1" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/the-dark-ones-clint-charles-fryer/1132307014?ean=9781643453163" },
+						{ "text": "Books-A-Million", "link": "https://www.booksamillion.com/p/Dark-Ones/Clint-Charles-Fryer/9781643453163?id=8232188167882" }
+					]
+				}
+			]
+		},
+		
 		{
 			"booktitle": "Rebirth of the Dark Ones",
 			"bookimage": "/book.jpg",
