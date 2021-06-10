@@ -18,10 +18,15 @@ const Home = () => {
 
 			<div className={`${styles.main}`}>
 				<div className={`container`}>
-					<h2 className={`section-heading`}>Latest Book</h2>
+					<h2 className={`section-heading`}>Featured Book</h2>
 					<div className={`flex`}>
 						<div className={`${styles['main-image-container']}`}>
-							<img src="dark-ones.jpg" alt={`${JSONData.featuredbooktitle}`} />
+							<img src="book.jpg" alt={`${JSONData.featuredbooktitle}`} />
+							<p style={{padding: '0 10%', color: 'gray', fontStyle: 'italic'}}>
+								"Rebirth of the Dark Ones" has seen a very good potential in this book category.
+								After carefully reviewing and analyzing the marketability, the critics rated this book at 8.93
+								which is a very high rating looking at all aspects in marketing possibilities including other opportunities.
+							</p>
 						</div>
 						<div className={`${styles['main-text-container']}`}>
 							<h2>{JSONData.featuredbooktitle}</h2>
