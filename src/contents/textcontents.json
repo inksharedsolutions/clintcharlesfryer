@@ -57,33 +57,6 @@
 	],
 	"aboutthebook": [
 		{
-			"booktitle": "The Dark Ones: The Guardians of Time and Space in Emptyness",
-			"bookimage": "/dark-ones.jpg",
-			"synopsis": [
-				"It was written that centuries ago there was a myth that filtered its way through time a mystical society that spent their lives battling the forces of evil throughout Time and Space. And at the heart of it all, at the core of Time and Space itself, there was a beautiful world called Alexandria. Within the mountains, a Crystal Castle the home of The Guardians known now as The Dark Ones.",
-				"Centuries later, ancient scrolls were found by archaeologists and translated by the smartest minds of their time. Archaeologists discovered a hidden passage within the scrolls, and this was what they translated:",
-				"My name is Cameron, and I would like to tell you a story. This story will take you to new worlds, dangerous mystical adventures, the power of true love and friendship, and battle different creatures like the evil Bounty Hunter, the mighty Hesna (they’re half snake and half human) and be face-to-face with powerful Gods, and so much more that it turned out to be the deadliest summer ever..."
-			],
-			"booklinks": [
-				{
-					"type": "E-book",
-					"items": [
-						{ "text": "Amazon", "link": "https://www.amazon.com/Dark-Ones-Guardians-Space-Emptyness-ebook/dp/B07TDS1BM7/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1562009119&sr=8-1" },
-						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/the-dark-ones-clint-charles-fryer/1132307014?ean=9781643455730" }
-					]
-				},
-				{
-					"type": "Paperback",
-					"items": [
-						{ "text": "Amazon", "link": "https://www.amazon.com/Dark-Ones-Guardians-Space-Emptiness/dp/1643453165/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1562009119&sr=8-1" },
-						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/the-dark-ones-clint-charles-fryer/1132307014?ean=9781643453163" },
-						{ "text": "Books-A-Million", "link": "https://www.booksamillion.com/p/Dark-Ones/Clint-Charles-Fryer/9781643453163?id=8232188167882" }
-					]
-				}
-			]
-		},
-		
-		{
 			"booktitle": "Rebirth of the Dark Ones",
 			"bookimage": "/book.jpg",
 			"synopsis": [
@@ -111,6 +84,43 @@
 					]
 				}
 			]
+		},
+		{
+			"booktitle": "The Dark Ones: The Guardians of Time and Space in Emptyness",
+			"bookimage": "/dark-ones.jpg",
+			"synopsis": [
+				"It was written that centuries ago there was a myth that filtered its way through time a mystical society that spent their lives battling the forces of evil throughout Time and Space. And at the heart of it all, at the core of Time and Space itself, there was a beautiful world called Alexandria. Within the mountains, a Crystal Castle the home of The Guardians known now as The Dark Ones.",
+				"Centuries later, ancient scrolls were found by archaeologists and translated by the smartest minds of their time. Archaeologists discovered a hidden passage within the scrolls, and this was what they translated:",
+				"My name is Cameron, and I would like to tell you a story. This story will take you to new worlds, dangerous mystical adventures, the power of true love and friendship, and battle different creatures like the evil Bounty Hunter, the mighty Hesna (they’re half snake and half human) and be face-to-face with powerful Gods, and so much more that it turned out to be the deadliest summer ever..."
+			],
+			"booklinks": [
+				{
+					"type": "E-book",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Dark-Ones-Guardians-Space-Emptyness-ebook/dp/B07TDS1BM7/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1562009119&sr=8-1" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/the-dark-ones-clint-charles-fryer/1132307014?ean=9781643455730" }
+					]
+				},
+				{
+					"type": "Paperback",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Dark-Ones-Guardians-Space-Emptiness/dp/1643453165/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1562009119&sr=8-1" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/the-dark-ones-clint-charles-fryer/1132307014?ean=9781643453163" },
+						{ "text": "Books-A-Million", "link": "https://www.booksamillion.com/p/Dark-Ones/Clint-Charles-Fryer/9781643453163?id=8232188167882" }
+					]
+				}
+			]
+		},
+		{
+			"booktitle": "The Dark Ones in The Guardians of Time and Space Resurrection",
+			"bookimage": "/resurrection.jpg",
+			"synopsis": [
+				"It was written….",
+				"That centuries ago there was a myth that filtered its way through time, a mystical society that spent their lives battling the forces of evil throughout time and space and at the heart of it all, at the core of time and space itself lies a beautiful world called Alexandria. Within the mountain lies a crystal castle-the home of the Guardian’s known now as the Dark Ones.",
+				"Centuries later ancient scrolls were found by archaeologists and translated by the smartest minds of their time. Archaeologists have discovered a hidden passage. Within the scrolls it spoke about an evil that was so powerful, that it almost overcame the goodness in the hearts of mankind that was scattered throughout space and time.",
+				"As they translated farther into the scrolls it mentioned a powerful Guardian with forbidden knowledge of mystical arts and magic, who set out on his own to battle evil and to bring Peace and goodness once again, but he was never seen again until now. And this is the story that was taken and translated from within the ancient scrolls……"
+			],
+			"booklinks": []
 		}
 	],
 	"footermenu": [

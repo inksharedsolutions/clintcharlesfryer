@@ -23,10 +23,10 @@ const Book = () => {
 									<div className={`flex ${styles['about-the-book-content']}`}>
 										<div className={`${styles['main-image-container']}`} key={index}>
 											<img src={data.bookimage} alt={data.booktitle} />
-											{/* <p style={{padding: "0 10%", color: 'gray', textAlign: 'justify', fontStyle: 'italic'}}>
-												{(data.booktitle == "Rebirth of the Dark Ones")?
-													" \"Rebirth of the Dark Ones\" has seen a very good potential in this book category. After carefully reviewing and analyzing the marketability, the critics rated this book at 8.93 which is a very high rating looking at all aspects in marketing possibilities including other opportunities.":""}
-											</p> */}
+											<p style={{padding: "0 10%", color: 'gray', textAlign: 'center', fontStyle: 'italic'}}>
+												{(data.booktitle === "The Dark Ones in The Guardians of Time and Space Resurrection")?
+													"Coming Soon in the Works":""}
+											</p>
 										</div>
 										<div className={`${styles['main-text-container']}`}>
 											<h2>{data.booktitle}</h2>
