@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../components/header';
 import Footer from '../components/footer';
 import Metadata from '../components/metadata';
+import Audio from '../components/audio';
 
 const Layout = (props) => {
 	return (
@@ -9,6 +10,7 @@ const Layout = (props) => {
 			<Metadata />
 			<Header />
 			{props.children}
+			<Audio />
 			<Footer />
 		</div>
 	);
